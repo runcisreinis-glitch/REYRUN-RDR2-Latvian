@@ -4,6 +4,8 @@
 
 Ja vēlies spēlēt *Red Dead Redemption 2* latviski, gatavais tulkojums un uzstādīšanas instrukcija ir [projekta mājaslapā](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/). Ja pats gribi tulkot vai rediģēt citas spēles tekstu, saglabā visu mapi `reyrun-game-translation-lv`. Tajā ir darba apraksts, pieci mācību piemēri un pārbaudes rīki.
 
+Ja pirmais mēģinājums izdodas, turpini ar [sarežģītāku spēļu tekstu pārbaudēm](ADVANCED-lv.md). Īstus piemērus par pazudušu darbu atgūšanu un to, kur gaidīja jau izrediģētās rindas, atradīsi [RDR2 projekta pieredzes aprakstā](https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/RETROSPECTIVE-lv.md).
+
 ## Kā sākt vienam vai kopā ar MI
 
 Parastā sarunā pievieno savam MI asistentam `SKILL.md`, šo instrukciju un nelielu avota teksta failu. Ja tavs asistents prot ielādēt prasmes no mapes, iekopē **visu mapi** vietā, kur tavs asistents meklē prasmes. Atjauno prasmju sarakstu un izvēlies `reyrun-game-translation-lv`. Atstāj failus to vietās, lai atvērtos prasmes aprakstā norādītās saites. Tulkojumus var rakstīt arī pats, rediģējot JSONL failus. Pārbaudes veic Python. Vingrinājumam nav vajadzīgs maksas konts.

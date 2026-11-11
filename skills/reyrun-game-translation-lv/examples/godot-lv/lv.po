@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REYRUN localisation exercise 1\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || (n % 100 >= 11 && n % 100 <= 19)) ? 0 : (n % 10 == 1 && n % 100 != 11) ? 1 : 2;\n"
+
+#. An inventory button. The player can open a chest.
+msgctxt "inventory/action"
+msgid "Open"
+msgstr "Atvērt"
+
+#. A status printed beside a chest. Latvian subject: konteiners.
+msgctxt "inventory/status"
+msgid "Open"
+msgstr "Atvērts"
+
+#. Duration in whole 24-hour periods. The form indices follow this file's header.
+msgctxt "duration"
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d diennakšu"
+msgstr[1] "%d diennakts"
+msgstr[2] "%d diennaktis"

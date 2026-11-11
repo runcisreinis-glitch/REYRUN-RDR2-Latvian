@@ -1,0 +1,7 @@
+config_version=5
+
+[application]
+config/name="REYRUN — Latvian localisation exercise"
+
+[internationalization]
+locale/translations=PackedStringArray("res://lv.po")

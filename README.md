@@ -8,6 +8,38 @@ A free Latvian text translation for Red Dead Redemption 2 on Windows PC. Use it 
 
 **[Download the translation ZIP](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip)** · [Open the bilingual project website](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
 
+[Support Reinis](#ways-to-support-me) · [Installation skill](skills/reyrun-rdr2-lv-install/SKILL.md) · [Translation skill](skills/reyrun-game-translation-lv/SKILL.md)
+
+## Latvian in the game
+
+Click any of Reinis’s screenshots to open the full-size image.
+
+<p><a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/subtitri.jpg"><img width="235" src="assets/screenshots/thumbs/subtitri.jpg" alt="A man in a fur coat, with the Latvian subtitle “Bet mēs zaudējām dažus cilvēkus.”" title="Dialogue subtitles"></a>
+<a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/izjades-norade.jpg"><img width="235" src="assets/screenshots/thumbs/izjades-norade.jpg" alt="A rider in the snow. A Latvian on-screen prompt shows which key to press to ride faster." title="An on-screen riding prompt"></a>
+<a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/taustinu-piesaiste.jpg"><img width="235" src="assets/screenshots/thumbs/taustinu-piesaiste.jpg" alt="The controls menu highlights “Taustiņu piesaiste”, with mouse and horse control settings in Latvian below." title="Key mapping"></a></p>
+
+Dialogue subtitles · An on-screen riding prompt · Key mapping
+
+<p><a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/pauzes-izvelne.jpg"><img width="235" src="assets/screenshots/thumbs/pauzes-izvelne.jpg" alt="The red pause menu shows the Latvian labels for Map, Help, Progress, Player and Story." title="Pause menu"></a>
+<a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/iestatijumi.jpg"><img width="235" src="assets/screenshots/thumbs/iestatijumi.jpg" alt="Six illustrated settings panels with Latvian labels for Controls, Display, Audio, Graphics, Camera and General." title="Game settings"></a>
+<a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/veidotaju-titri.jpg"><img width="235" src="assets/screenshots/thumbs/veidotaju-titri.jpg" alt="A face in close-up beside the Latvian environment-art credit “Vides māksla”. Latvian dialogue subtitles appear below." title="Opening credits"></a></p>
+
+Pause menu · Game settings · Opening credits
+
+<p><a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/pirma-nodala.jpg"><img width="235" src="assets/screenshots/thumbs/pirma-nodala.jpg" alt="The original “Chapter I · Colter” title card has a Latvian caption beneath it, “1. nodaļa: Kolters”." title="Chapter title caption"></a></p>
+
+Chapter title caption
+
+One mission objective in the downloadable XML reads **“Seko Dačam”** (“Follow Dutch”, entry `0x1C4EF867`).
+
+## Install with your AI assistant
+
+Paste this request into your AI chat.
+
+> I want to play Red Dead Redemption 2 in Latvian. Open https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/docs/INSTALL-AI-en.md and help me install the translation. If you can work on my PC, please do it for me. If you can only chat, tell me one click at a time.
+
+[Full installation guide for AI](docs/INSTALL-AI-en.md) · [Download the installation skill](downloads/REYRUN-RDR2-Install-Skill.zip?raw=true)
+
 ## A note from Reinis
 
 My name is Reinis Runcis. This translation is my way of thanking the people who help me keep living in my own home. It’s a gift to anyone who’d like to play through this story in Latvian.
@@ -18,17 +50,15 @@ If you’d like to get to know me, read my poetry or ask about my other work, [w
 
 ### Ways to support me
 
-- **Swedbank** · REINIS RUNCIS · IBAN `LV82HABA0551011504293`
-- **Stripe** · [Give in euros](https://buy.stripe.com/dRm7sNfD2bOZckRb9A6g802) · [Give in US dollars](https://donate.stripe.com/cNifZj4Yog5fckR5Pg6g800)
-- **PayPal** · [Reinis Runcis Support](https://paypal.me/ReinisRuncisSupport)
-- **USDT on BNB Smart Chain (BSC, BEP-20)** · `0x32834068Fa4fEe29fA10e2020e68Fb23d5fC1d21`
-- **USDT on Solana (SPL)** · `Hy6hKMwMDgXFdaD3N5J1CNMs2LwiE22QdrQnEYoX3fZh`
+My support page lists the ways to help, including a bank transfer to Swedbank, Stripe, PayPal and USDT. [Support Reinis](https://reyrun-rekursive-deep-search.runcisreinis.chatgpt.site/support.html)
 
 ## Translate another game into Latvian
 
 Start with the [practical guide](skills/reyrun-game-translation-lv/references/GUIDE-en.md). You can give the [REYRUN skill](skills/reyrun-game-translation-lv/SKILL.md) to your AI assistant or follow the same steps with a human translator. The examples and Python tools run locally. They let you try a small batch, catch damaged placeholders and compare edited text against its source before you touch a game installation.
 
 The [RDR2 project retrospective](docs/RETROSPECTIVE-en.md) follows the work from drafts to the installed XML. It explains where time was lost, how existing translations were recovered after interruptions, and which measurements tell you how many lines a player can actually read.
+
+[Advanced methods and in-game checks](skills/reyrun-game-translation-lv/references/ADVANCED-en.md) · [Download the translation skill](downloads/REYRUN-Latvian-Game-Translation-Skill.zip?raw=true)
 
 ## Install on Windows
 
@@ -37,15 +67,9 @@ The [RDR2 project retrospective](docs/RETROSPECTIVE-en.md) follows the work from
 3. Back up any file ending in `Translation.xml` and any older `rdr2-translator.asi` outside the game folder. Copy `Latvian Translation.xml` from the ZIP into the folder beside `RDR2.exe`. Keep the filename as supplied.
 4. Leave the game language set to **English**, launch **Story Mode**, and turn on subtitles. Check a menu and a line of dialogue. See the [installation and removal guide](INSTALL-EN.txt) for troubleshooting.
 
-### Ask your AI for help
-
-Attach `INSTALL-EN.txt` from the ZIP to your AI assistant and paste this request.
-
-> Help me install the REYRUN Latvian text translation for Red Dead Redemption 2 on Windows. I use [Steam / another launcher]. Follow the attached instructions, help me find RDR2.exe and the two authors’ downloads, back up my existing files, and check the final folder before I launch Story Mode.
-
 ## Download verification
 
-The release contains 253,073 translated entries. The ZIP includes the translation XML and installation guides in Latvian and English. The ASI plug-in and loader are available from their respective authors. The approved database and installed XML matched on every ID and text in the 11 November 2026 check. On-screen rendering still calls for a Story Mode playtest.
+The release contains 253,073 translated entries. The ZIP includes the translation XML and installation guides in Latvian and English. The ASI plug-in and loader are available from their respective authors. The approved database and installed XML matched on every ID and text in the 11 November 2026 check. The screenshots above show how the Latvian text renders in the pictured scenes and menus.
 
 | File | SHA-256 |
 | --- | --- |

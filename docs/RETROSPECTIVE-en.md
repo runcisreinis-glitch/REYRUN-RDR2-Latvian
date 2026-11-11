@@ -42,6 +42,12 @@ Only one importer wrote a release at a time. It checked the candidate, prepared 
 
 For another game, report drafting, final approvals and new IDs verified in the installed file separately. Record the elapsed time and visible source-character count for the same interval. Keep corrections to existing IDs, deliberate original spellings and unresolved questions in separate columns. This lets someone taking over after an interruption see whether the next job is translation, an editorial decision or a file installation.
 
+## What the player saw
+
+On 11 November Reinis captured seven screenshots from game version 1491.50. The pause menu shows “Karte” and “Iestatījumi”, and the Controls screen shows “Taustiņu piesaiste”. The riding tutorial displays its key symbol alongside the Latvian text. The opening scenes show Latvian dialogue subtitles and translated job titles in the credits. A Latvian caption appears beneath the original chapter-title artwork.
+
+Three examples can be traced to exact entries in the published XML. “Bet mēs zaudējām dažus cilvēkus.” is `0xFCD0E439`. The prompt to tap a key to ride faster is `0x9D9BAF33`. The Controls description “Pielāgo tastatūras un peles taustiņu piesaistes.” is `0x94B26056`. An editor can use those IDs to locate a line for correction. A mission objective, live dialogue during player control and the action/key list inside the key-mapping submenu have separate checks. [In-game checks](INSTALL-AI-en.md)
+
 ### Evidence
 
 The dated observations come from the project's 28 October installation status, 31 October cycle 9 and 10 checkpoints and 23:35 production report, 2 November 24-hour report, 6 November installation audit, 8 November stop-and-recovery audit and its following release report, the two November status checks above, and the 10 November final installation and correction records. Only the project-side audit had access to the editorial database. Anyone can independently count the unique IDs and verify the published XML against this final SHA-256. Opening the 11 November release ZIP and parsing its XML reproduced that hash and all 253,073 unique IDs.

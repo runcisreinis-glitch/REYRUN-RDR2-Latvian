@@ -4,6 +4,8 @@
 
 If you want to play Red Dead Redemption 2 in Latvian, get the finished translation and its installation guide from the [project website](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/). To translate or edit another game, start with a copy of the folder `reyrun-game-translation-lv`. It contains the workflow, five teaching examples and local tests.
 
+After the first sample, use the [advanced game-text checks](ADVANCED-en.md). For measured examples of recovering earlier drafts and tracking queues of edited text, read the [RDR2 project retrospective](https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/RETROSPECTIVE-en.md).
+
 ## Use the method with a person or an AI assistant
 
 In an ordinary chat, attach `SKILL.md`, this guide and a small batch of source rows. In a system that loads Agent Skills from a directory, copy the **whole folder** into the skills location configured in that system, refresh its list and select `reyrun-game-translation-lv`. The skill refers to the guides and scripts by relative path. A translator can also edit the JSONL files by hand. Python runs the checks. The work does not require a particular AI service or a paid account.

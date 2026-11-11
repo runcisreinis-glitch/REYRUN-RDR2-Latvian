@@ -9,6 +9,8 @@ description: Translate and edit game text into natural Latvian with speaker and 
 
 Start with the [English guide](references/GUIDE-en.md) or [latviešu instrukcija](references/GUIDE-lv.md). For a first run, use the five original teaching examples supplied in this folder.
 
+For accessibility, variables, fonts, subtitles and control prompts, use the [advanced English guide](references/ADVANCED-en.md) or [padziļinātā rokasgrāmata latviski](references/ADVANCED-lv.md). The [RDR2 retrospective in English](https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/RETROSPECTIVE-en.md) and [latviešu pieredzes apraksts](https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/RETROSPECTIVE-lv.md) give the measured queue sizes, examples of mistranslations and the actual recovery sequence. To play the completed RDR2 translation, use the separate [installation skill](https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/tree/main/skills/reyrun-rdr2-lv-install).
+
 ## Take a batch
 
 1. Identify the game build, language, unique entry IDs and the target file format. Preserve a read-only source copy. For a new engine, test one small export and import with its own tools before translating thousands of lines.
@@ -22,6 +24,8 @@ Start with the [English guide](references/GUIDE-en.md) or [latviešu instrukcija
 ## On the next work session
 
 Read the last release receipt and inspect the current files. Resume from the first unfinished stage. Record counts for drafted, checked, approved, installed and held rows separately. Time the stages, including waits. Counting newly installed IDs and source characters over the same elapsed period makes it possible to see where work has stopped moving.
+
+When a session ends in the middle of a batch, match the saved responses to the assigned source IDs and source hashes. Compare them with the latest editorial decisions. Keep unresolved variants with the source and a question for the editor. Resume the checked release from its last verified write. Re-read the installed candidate to avoid sending already completed text through translation again.
 
 ## Commands
 

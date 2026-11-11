@@ -8,6 +8,38 @@ Bezmaksas rakstītā teksta tulkojums spēles *Red Dead Redemption 2* stāsta re
 
 **[Lejupielādēt tulkojumu](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip)** · [Apmeklēt projekta mājaslapu](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/)
 
+[Atbalstīt Reini](#brīvprātīgs-atbalsts) · [Uzstādīšanas prasme](skills/reyrun-rdr2-lv-install/SKILL.md) · [Tulkošanas prasme](skills/reyrun-game-translation-lv/SKILL.md)
+
+## Spēle latviski
+
+Noklikšķini uz kāda no Reiņa ekrānattēliem, lai to atvērtu pilnā izmērā.
+
+<p><a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/subtitri.jpg"><img width="235" src="assets/screenshots/thumbs/subtitri.jpg" alt="Vīrietis kažokā. Ekrāna apakšā redzams teikums «Bet mēs zaudējām dažus cilvēkus.»" title="Dialoga subtitri"></a>
+<a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/izjades-norade.jpg"><img width="235" src="assets/screenshots/thumbs/izjades-norade.jpg" alt="Jātnieks sniegā. Spēle latviski paskaidro, kurš taustiņš jāspiež, lai jātu ātrāk." title="Norāde izjādes laikā"></a>
+<a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/taustinu-piesaiste.jpg"><img width="235" src="assets/screenshots/thumbs/taustinu-piesaiste.jpg" alt="Vadības iestatījumos izcelta «Taustiņu piesaiste». Zem tās lasāmi peles un zirga vadības iestatījumi." title="Taustiņu piesaiste"></a></p>
+
+Dialoga subtitri · Norāde izjādes laikā · Taustiņu piesaiste
+
+<p><a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/pauzes-izvelne.jpg"><img width="235" src="assets/screenshots/thumbs/pauzes-izvelne.jpg" alt="Sarkanajā pauzes izvēlnē lasāmi «Karte», «Palīdzība», «Progress», «Spēlētājs» un «Stāsts»." title="Pauzes izvēlne"></a>
+<a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/iestatijumi.jpg"><img width="235" src="assets/screenshots/thumbs/iestatijumi.jpg" alt="Sešas iestatījumu sadaļas spēlē: vadība, ekrāns, skaņa, grafika, kamera un vispārīgie iestatījumi." title="Spēles iestatījumi"></a>
+<a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/veidotaju-titri.jpg"><img width="235" src="assets/screenshots/thumbs/veidotaju-titri.jpg" alt="Tuvplānā redzama seja. Blakus veidotāju vārdiem rakstīts «Vides māksla», bet apakšā lasāmi dialoga subtitri." title="Spēles veidotāju titri"></a></p>
+
+Pauzes izvēlne · Spēles iestatījumi · Spēles veidotāju titri
+
+<p><a href="https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/assets/screenshots/full/pirma-nodala.jpg"><img width="235" src="assets/screenshots/thumbs/pirma-nodala.jpg" alt="Zem spēles sākotnējā uzraksta «Chapter I · Colter» redzams «1. nodaļa: Kolters»." title="Pirmās nodaļas nosaukums"></a></p>
+
+Pirmās nodaļas nosaukums
+
+Uzdevuma teksta piemērs no lejupielādējamā XML ir **„Seko Dačam”** (ieraksts `0x1C4EF867`).
+
+## Uzstādi tulkojumu ar savu MI
+
+Iekopē šo lūgumu sarunā ar savu MI.
+
+> Gribu spēlēt Red Dead Redemption 2 latviski. Atver https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/docs/INSTALL-AI-lv.md un palīdzi man uzstādīt tulkojumu. Ja vari strādāt manā datorā, izdari to. Ja vari tikai sarunāties, saki pa vienam solim, kur man jāspiež.
+
+[Pilnā uzstādīšanas instrukcija MI](docs/INSTALL-AI-lv.md) · [Lejupielādēt uzstādīšanas prasmi](downloads/REYRUN-RDR2-Install-Skill.zip?raw=true)
+
 ## Reinis saviem atbalstītājiem
 
 Mani sauc Reinis Runcis. Šis tulkojums ir mans paldies cilvēkiem, kuri man palīdz turpināt dzīvot mājās. Dāvinu to visiem, kam gribas izspēlēt šo stāstu latviski.
@@ -18,17 +50,15 @@ Ja gribat mani tuvāk iepazīt, palasīt manu dzeju vai pajautāt par citiem dar
 
 ### Brīvprātīgs atbalsts
 
-- **Swedbank** · REINIS RUNCIS · IBAN `LV82HABA0551011504293`
-- **Stripe** · [Atbalstīt eiro](https://buy.stripe.com/dRm7sNfD2bOZckRb9A6g802) · [Atbalstīt ASV dolāros](https://donate.stripe.com/cNifZj4Yog5fckR5Pg6g800)
-- **PayPal** · [Reinis Runcis Support](https://paypal.me/ReinisRuncisSupport)
-- **USDT · BNB Smart Chain (BSC), BEP-20** · `0x32834068Fa4fEe29fA10e2020e68Fb23d5fC1d21`
-- **USDT · Solana, SPL** · `Hy6hKMwMDgXFdaD3N5J1CNMs2LwiE22QdrQnEYoX3fZh`
+Manā atbalsta lapā atradīsi visas iespējas — pārskaitījumu uz Swedbank, Stripe, PayPal un USDT. [Atbalstīt Reini](https://reyrun-rekursive-deep-search.runcisreinis.chatgpt.site/atbalsts.html)
 
 ## Kā iztulkot citu spēli latviski
 
 Sāc ar [praktisko pamācību](skills/reyrun-game-translation-lv/references/GUIDE-lv.md). [REYRUN prasmi](skills/reyrun-game-translation-lv/SKILL.md) vari iedot savam MI asistentam. Tos pašus soļus var veikt arī tulkotājs un redaktors. Piemērus vari izmēģināt savā datorā. Komplektā iekļautie Python rīki palīdz atrast sabojātus vietturus un pārbaudīt rediģēto tekstu pirms ievietošanas spēlē.
 
 [RDR2 darba gaitas un kļūdu analīzē](docs/RETROSPECTIVE-lv.md) aprakstījām, kāpēc uzkrājās tūkstošiem neievietotu melnrakstu, kā pēc pārtraukumiem atguvām jau iztulkoto un kā skaitījām rindas, kuras tiešām nonāca spēles failā.
+
+[Papildu metodes un pārbaudes spēlē](skills/reyrun-game-translation-lv/references/ADVANCED-lv.md) · [Lejupielādēt tulkošanas prasmi](downloads/REYRUN-Latvian-Game-Translation-Skill.zip?raw=true)
 
 ## Kā uzstādīt tulkojumu
 
@@ -37,11 +67,9 @@ Sāc ar [praktisko pamācību](skills/reyrun-game-translation-lv/references/GUID
 3. Ja spēlē iepriekš bijis cits tulkojums, saglabā veco tulkojuma XML un veco `rdr2-translator.asi` rezerves mapē ārpus spēles. No REYRUN arhīva iekopē `Latvian Translation.xml` blakus `RDR2.exe`. Saglabā esošo faila nosaukumu.
 4. Palaidējā atstāj **English**. Atver **Story Mode**, ieslēdz subtitrus un pārbaudi izvēlni un kādu dialogu. [Pilnajā instrukcijā](UZSTADISANA-LV.txt) aprakstīta arī iepriekšējās instalācijas atjaunošana.
 
-Vari pievienot failu `UZSTADISANA-LV.txt` savam MI asistentam un palūgt: “Palīdzi man pēc šīs instrukcijas uzstādīt REYRUN latviešu tulkojumu. Spēle ir uz Windows, un es izmantoju [Steam vai citu palaidēju].”
-
 ## Ko pārbaudījām
 
-2026. gada 11. novembrī visi 253 073 apstiprinātie ieraksti precīzi sakrita ar Steam instalācijas XML pēc identifikatora un teksta. Publiskā ZIP kontrolsumma ir `11d7ee80bac9ac820a2c20e87f2f7fc736e3fab5ceb6e9cf7842543f9f3237da`. Vēl jāpārbauda, kā burti un garākās rindas izskatās pašas spēles ekrānā.
+Pārbaudē 2026. gada 11. novembrī visi 253 073 apstiprinātie ieraksti precīzi sakrita ar Steam instalācijas XML pēc identifikatora un teksta. Publiskā ZIP kontrolsumma ir `11d7ee80bac9ac820a2c20e87f2f7fc736e3fab5ceb6e9cf7842543f9f3237da`. Augstāk redzamie kadri parāda, kā spēle attēlo latviešu tekstu šajās ainās un izvēlnēs.
 
 ## Izmantošana
 

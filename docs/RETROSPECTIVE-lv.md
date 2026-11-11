@@ -2,7 +2,7 @@
 
 [English](RETROSPECTIVE-en.md) · [Projekta mājaslapa](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/)
 
-2026. gada 2. novembrī vienā diennaktī bija sagatavoti melnraksti 32 666 spēles ierakstiem. Tajā pašā diennaktī spēles failā nonāca 8 602 jauni ieraksti. Darbs uzkrājās pēc melnrakstu sagatavošanas. Pirms dot tulkotājiem nākamo uzdevumu, bija jānoskaidro, cik daudz teksta jau gaida galīgo redakciju vai ievietošanu spēlē.
+Vienā diennaktī 2026. gada 2. novembrī bija sagatavoti melnraksti 32 666 spēles ierakstiem. Tajā pašā diennaktī spēles failā nonāca 8 602 jauni ieraksti. Darbs uzkrājās pēc melnrakstu sagatavošanas. Pirms dot tulkotājiem nākamo uzdevumu, bija jānoskaidro, cik daudz teksta jau gaida galīgo redakciju vai ievietošanu spēlē.
 
 [Izmantot tulkošanas metodi citai spēlei](../skills/reyrun-game-translation-lv/references/GUIDE-lv.md)
 
@@ -41,6 +41,12 @@ Vispirms atguva 1 348 agrāk izrediģētus ierakstus. Pārējiem 5 701 pārbaud�
 Laidienu vienlaikus ierakstīja viens izpildītājs. Tas pārbaudīja sagatavoto tekstu, sagatavoja importu, izmēģināja to datubāzes kopijā, ievietoja apstiprināto tekstu darba datubāzē, izveidoja XML, pārbaudīja mērķa instalāciju un ievietoja failu spēlē. Pēc tam instalēto XML atvēra vēlreiz un salīdzināja visus ID un tekstus. Visiem 246 024 ierakstiem, kas spēlē atradās pirms šī darba, formulējumi saglabājās. Pēc tam 29 jaunpievienotajos tekstos precizēja formulējumu, tāpēc kopējais ierakstu skaits nemainījās.
 
 Citai spēlei tajā pašā laika intervālā pieraksti, cik melnrakstu pabeigti, cik tekstiem pieņemta gala redakcija un cik jaunu ID pārbaudīti tieši spēles failā. Pievieno redzamo avota rakstzīmju skaitu un pagājušo laiku. Jau ievietota teksta labojumus, apzināti saglabāto oriģinālrakstību un neatbildētos jautājumus uzskaiti atsevišķi. Tad darba turpinātājs redzēs, vai vajadzīgs tulkojums, redaktora lēmums vai jau gatava faila ievietošana.
+
+## Ko redzēja spēlētājs
+
+Reinis 11. novembrī iemūžināja spēles versiju 1491.50 septiņos ekrānattēlos. Pauzes izvēlnē redzami „Karte” un „Iestatījumi”, vadības sadaļā „Taustiņu piesaiste”. Jāšanas norādē pie teksta ir īstā taustiņa simbols. Ievada ainās latviski redzami dialoga subtitri un veidotāju amatu nosaukumi. Nodaļas nosaukuma tulkojums parādās zem oriģinālā grafiskā uzraksta.
+
+Trīs kadrus var piesaistīt precīziem publiskā XML ierakstiem. „Bet mēs zaudējām dažus cilvēkus.” ir `0xFCD0E439`. Jāšanas pamācība ar īsu taustiņa spiedienu ir `0x9D9BAF33`. Vadības izvēlnes skaidrojums „Pielāgo tastatūras un peles taustiņu piesaistes.” ir `0x94B26056`. Tas ļauj redaktoram atrast konkrētu formulējumu nākamajam labojumam. Misijas mērķi, spēlēšanas laikā dzirdēta dialoga subtitrus un darbību sarakstu atvērtā taustiņu piesaistes izvēlnē var pārbaudīt atsevišķi. [Spēles pārbaudes pamācība](INSTALL-AI-lv.md)
 
 ### Pārbaudes avoti
 
