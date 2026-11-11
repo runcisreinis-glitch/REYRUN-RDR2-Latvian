@@ -1,0 +1,28 @@
+﻿REYRUN • Red Dead Redemption 2 in Latvian
+Windows PC · Story Mode
+
+1. Close the game and extract the REYRUN ZIP into a temporary folder.
+2. Open the folder containing RDR2.exe. In your Steam Library, right-click Red Dead Redemption 2, choose Manage, then Browse local files. For a non-Steam installation, use your launcher's installation folder or open the game folder in File Explorer. Check that RDR2.exe is there.
+3. Get UniversalRDR2StringTranslator.asi from the main Universal RDR2 String Translator download by RacerMouze. If a working copy is already installed, keep it. Otherwise copy the .asi file next to RDR2.exe. When replacing an older copy, first save it outside the game folder.
+   https://www.nexusmods.com/reddeadredemption2/mods/10214
+4. The translator also needs an ASI loader. If a working dinput8.dll is already in the game folder, keep it. For a fresh installation, get Script Hook RDR2 by Alexander Blade and copy dinput8.dll from its bin folder next to RDR2.exe. This translation only needs the loader from that download.
+   https://www.dev-c.com/rdr2/scripthookrdr2/
+5. Move any existing file whose name ends in “Translation.xml” to a backup folder outside the game. Back up the old rdr2-translator.asi there too if present. Copy Latvian Translation.xml from the REYRUN ZIP next to RDR2.exe. Keep the same filename. The translator loads one base translation at a time.
+6. Leave the launcher language set to English and start Story Mode. To see dialogue text, turn on subtitles in the game's settings. Check a menu and a line of dialogue. The translation changes written text; the characters keep their original voices.
+
+Your game folder should now contain
+  RDR2.exe
+  dinput8.dll
+  UniversalRDR2StringTranslator.asi
+  Latvian Translation.xml
+
+If the menus are still in English, close the game. Check that the three mod files sit directly beside RDR2.exe and that Latvian Translation.xml is the only file there ending in “Translation.xml”. Windows can hide filename extensions. In File Explorer choose View, then Show, then File name extensions.
+
+To undo the installation, close the game and move Latvian Translation.xml out of its folder. Restore your previous translation from the backup. If it uses the legacy rdr2-translator.asi, first move UniversalRDR2StringTranslator.asi outside the game folder so the two plug-ins never load together. If you replaced an earlier Universal plug-in, restore its saved copy. Keep dinput8.dll if other mods use it. On a previously unmodified game, you can also remove the plug-in and loader you added. Use this package in Story Mode.
+
+To ask your AI for help, attach this guide and say “Help me install the REYRUN Latvian text translation for Red Dead Redemption 2 on Windows. I use [Steam / another launcher]. Walk me through finding RDR2.exe, getting the two dependencies from their authors, backing up older files and checking my installation.”
+
+To check the extracted XML in PowerShell, run the following command from the folder containing it.
+Get-FileHash -Algorithm SHA256 -LiteralPath '.\Latvian Translation.xml'
+Expected SHA-256
+c72337da664b3999ca4fc2de2600c1e79c551b29fa1e69d79d1330485aef5045
