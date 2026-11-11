@@ -10,6 +10,8 @@ Parastā tīmekļa čatā ielīmē lūgumu un saiti uz šo pamācību. Spēlēt�
 
 Ja izmanto šādu savienojumu, spēlētājs savā rīkā izvēlas atļautās mapes. Asistents vispirms nolasa `RDR2.exe` faila nosaukumu izvēlētajā mapē. Rakstīšanas laikā tam vajag tiesības tikai iepriekš norādīto failu saglabāšanai un kopēšanai. Čatā nav jāievieto paroles vai piekļuves atslēgas. Ja rīks redz tikai mākonī augšupielādētus pielikumus, spēles failus kopē spēlētājs pats. Ja Windows aizsargātā mapē neļauj kopēt, parādi precīzu avotu un mērķi. Spēlētājs drīkst apstiprināt konkrēto kopēšanu Windows logā. Bez šīs piekļuves apstājies pie manuālā soļa. Koplietošanas, ugunsmūra vai mapju aizsardzības iestatījumi uzstādīšanai nav jāmaina.
 
+RDR2 profilam jau ir sagatavots Windows palaišanas fails. Izvēlies spēles mapi, kurā atrodas RDR2.exe. Ja parasts tīmekļa čats nevar piekļūt datoram, seko manuālajiem soļiem. [Atvērt RDR2 savienojuma pamācību](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/#rdr2) · [Savienojuma rīki un pirmkods GitHub](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
+
 ### Lokālais tilts ar precīzi norādītām mapēm
 
 Šis variants der datora MI lietotnei, kura prot palaist lokālu MCP serveri ar `stdio`. Savienojums iet tieši starp divām programmām spēlētāja datorā. Tam nevajag publisku adresi, tuneli vai API atslēgu. Pārlūka čatam bez šādas funkcijas izmanto manuālo ceļu. Pietiek ar vienu vietējo failu savienojumu.

@@ -10,6 +10,8 @@ In an ordinary web chat, paste the request and the link to this guide. The playe
 
 In the connector's own interface, the player selects the allowed folders. First have the assistant read the name of `RDR2.exe` from the selected game folder. During installation restrict writes to saving and copying the files below. Keep sign-in passwords and connector access keys out of chat. An assistant that can only inspect uploaded attachments must guide the player through local copying. If Windows denies a copy to a protected folder, show the exact source and destination. The player can confirm that specific copy in Windows. If that access is unavailable, pause at the manual step. Installation requires no changes to network sharing, firewall settings or folder protections.
 
+The RDR2 profile has a ready-to-run Windows launcher. Choose the game folder containing RDR2.exe. If an ordinary web chat cannot access your PC, follow the manual steps. [Open the RDR2 connection guide](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/#rdr2) · [Bridge tools and source on GitHub](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
+
 ### A local bridge limited to three folders
 
 Use this option in a desktop AI client that can run a local MCP server over `stdio`. The connection runs between two programs on the player's PC. It needs no public address, tunnel or API key. A browser-only chat without this feature can still guide the player through the manual steps. Use one local file connection.

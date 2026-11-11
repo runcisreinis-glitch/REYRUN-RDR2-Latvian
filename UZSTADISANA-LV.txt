@@ -1,6 +1,10 @@
 ﻿REYRUN • Red Dead Redemption 2 latviski
 Windows datoriem · stāsta režīmam
 
+RDR2 profilam jau ir sagatavots Windows palaišanas fails. Izvēlies spēles mapi, kurā atrodas RDR2.exe. Ja parasts tīmekļa čats nevar piekļūt datoram, seko manuālajiem soļiem.
+Atvērt RDR2 savienojuma pamācību https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/#rdr2
+Savienojuma rīki un pirmkods GitHub https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge
+
 1. Aizver spēli un izpako REYRUN ZIP failu pagaidu mapē.
 2. Atver mapi, kurā atrodas RDR2.exe. Ja izmanto Steam, bibliotēkā ar labo peles pogu noklikšķini uz Red Dead Redemption 2, izvēlies Manage un tad Browse local files. Ja spēle uzstādīta bez Steam, atrodi tās instalācijas mapi palaidējā vai atver to Windows failu pārlūkā. Pārliecinies, ka mapē ir RDR2.exe.
 3. Autora RacerMouze lapā lejupielādē Universal RDR2 String Translator pamatfailu. Ja spēles mapē jau ir strādājošs UniversalRDR2StringTranslator.asi, vari to atstāt. Citādi iekopē šo failu no arhīva blakus RDR2.exe. Ja vēlies aizstāt vecāku spraudņa versiju, vispirms saglabā tās kopiju ārpus spēles mapes.

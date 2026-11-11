@@ -13,6 +13,8 @@ Open the [Latvian instructions](references/INSTALL-AI-lv.md) or [English instruc
 
 An ordinary free chat can guide the player. It needs the instructions and the player's answers. If the assistant accepts files, attach this skill and the matching guide. A local assistant that supports skills can load this entire folder with its references. The player needs no translation service or model API key to use the game files.
 
+For a scoped Windows installer connection, open the [RDR2 bridge in English](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/#rdr2) or [RDR2 savienojuma lapu latviski](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/#rdr2). The Windows launcher takes the folder containing `RDR2.exe`. A browser-only assistant can use the manual path. [Bridge tools and source](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
+
 ## Installation sequence
 
 1. Establish access. A connected, user-approved file tool can read the selected local game folder and write the listed files. A web-only assistant reads the guide and asks the player for the result of each click. If no connector is available, use this manual route. Never treat an uploaded screenshot or an assistant's own workspace as local filesystem access.

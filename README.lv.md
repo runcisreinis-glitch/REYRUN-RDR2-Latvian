@@ -38,6 +38,8 @@ Iekopē šo lūgumu sarunā ar savu MI.
 
 > Gribu spēlēt Red Dead Redemption 2 latviski. Atver https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/docs/INSTALL-AI-lv.md un palīdzi man uzstādīt tulkojumu. Ja vari strādāt manā datorā, izdari to. Ja vari tikai sarunāties, saki pa vienam solim, kur man jāspiež.
 
+RDR2 profilam jau ir sagatavots Windows palaišanas fails. Izvēlies spēles mapi, kurā atrodas RDR2.exe. Ja parasts tīmekļa čats nevar piekļūt datoram, seko manuālajiem soļiem. [Atvērt RDR2 savienojuma pamācību](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/#rdr2) · [Savienojuma rīki un pirmkods GitHub](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
+
 [Pilnā uzstādīšanas instrukcija MI](docs/INSTALL-AI-lv.md) · [Lejupielādēt uzstādīšanas prasmi](downloads/REYRUN-RDR2-Install-Skill.zip?raw=true)
 
 ## Reinis saviem atbalstītājiem

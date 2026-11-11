@@ -38,6 +38,8 @@ Paste this request into your AI chat.
 
 > I want to play Red Dead Redemption 2 in Latvian. Open https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/docs/INSTALL-AI-en.md and help me install the translation. If you can work on my PC, please do it for me. If you can only chat, tell me one click at a time.
 
+The RDR2 profile has a ready-to-run Windows launcher. Choose the game folder containing RDR2.exe. If an ordinary web chat cannot access your PC, follow the manual steps. [Open the RDR2 connection guide](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/#rdr2) · [Bridge tools and source on GitHub](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
+
 [Full installation guide for AI](docs/INSTALL-AI-en.md) · [Download the installation skill](downloads/REYRUN-RDR2-Install-Skill.zip?raw=true)
 
 ## A note from Reinis
