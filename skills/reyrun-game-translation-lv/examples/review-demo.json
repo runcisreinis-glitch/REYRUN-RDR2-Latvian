@@ -1,0 +1,8 @@
+{
+  "reviewer": "REYRUN teaching example",
+  "scope": "Training fixture. The pause-menu action and the Latvian verb were reviewed together.",
+  "id": "demo.menu",
+  "source_sha": "d640c7421da066618a39daf4266da5f61f66a9b1afcd626481b831a17064965d",
+  "target": "Turpināt",
+  "target_sha": "765d5d150bf49265b957574b0340b6abbc4f14d3a27d0e41fce88560a43bbc92"
+}

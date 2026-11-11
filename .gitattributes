@@ -1,3 +1,6 @@
-Latvian[[:space:]]Translation.xml -text
-*.png -text
+*.xml -text
 *.txt -text
+*.png -text
+*.zip -text
+*.py text eol=lf
+*.md text eol=lf

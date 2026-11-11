@@ -1,0 +1,28 @@
+﻿REYRUN • Red Dead Redemption 2 latviski
+Windows datoriem · stāsta režīmam
+
+1. Aizver spēli un izpako REYRUN ZIP failu pagaidu mapē.
+2. Atver mapi, kurā atrodas RDR2.exe. Ja izmanto Steam, bibliotēkā ar labo peles pogu noklikšķini uz Red Dead Redemption 2, izvēlies Manage un tad Browse local files. Ja spēle uzstādīta bez Steam, atrodi tās instalācijas mapi palaidējā vai atver to Windows failu pārlūkā. Pārliecinies, ka mapē ir RDR2.exe.
+3. Autora RacerMouze lapā lejupielādē Universal RDR2 String Translator pamatfailu. Ja spēles mapē jau ir strādājošs UniversalRDR2StringTranslator.asi, vari to atstāt. Citādi iekopē šo failu no arhīva blakus RDR2.exe. Ja vēlies aizstāt vecāku spraudņa versiju, vispirms saglabā tās kopiju ārpus spēles mapes.
+   https://www.nexusmods.com/reddeadredemption2/mods/10214
+4. Spraudnim vajadzīgs arī ASI ielādētājs. Ja spēles mapē jau ir strādājošs dinput8.dll, atstāj to vietā. Ja ielādētāja vēl nav, lejupielādē Alexander Blade veidoto Script Hook RDR2. No arhīva mapes bin iekopē dinput8.dll blakus RDR2.exe. No šīs lejupielādes tulkojumam vajadzīgs tikai ielādētājs.
+   https://www.dev-c.com/rdr2/scripthookrdr2/
+5. Ja spēles mapē jau ir fails, kura nosaukums beidzas ar “Translation.xml”, pārvieto to uz rezerves mapi ārpus spēles mapes. Ja tur ir vecais rdr2-translator.asi, pārvieto arī to. No REYRUN arhīva iekopē Latvian Translation.xml blakus RDR2.exe. Saglabā faila nosaukumu. Spraudnis vienlaikus ielādē vienu pamattulkojumu.
+6. Palaidējā atstāj angļu valodu un ieslēdz stāsta režīmu. Lai redzētu dialogu tekstu, spēles iestatījumos ieslēdz subtitrus. Apskaties kādu izvēlni un noklausies sarunu ar subtitriem. Tulkojums maina rakstīto tekstu. Varoņi turpina runāt oriģinālvalodā.
+
+Spēles mapē līdzās jāatrodas šiem failiem
+  RDR2.exe
+  dinput8.dll
+  UniversalRDR2StringTranslator.asi
+  Latvian Translation.xml
+
+Ja izvēlnes vēl ir angliski, aizver spēli. Pārbaudi, vai visi trīs pievienotie faili ir tieši blakus RDR2.exe un vai Latvian Translation.xml ir vienīgais fails šajā mapē, kura nosaukums beidzas ar “Translation.xml”. Windows mēdz paslēpt failu paplašinājumus. Failu pārlūkā tos var ieslēgt sadaļā View, izvēloties Show un tad File name extensions.
+
+Lai atjaunotu iepriekšējo valodu, aizver spēli, pārvieto Latvian Translation.xml ārpus spēles mapes un atliec vietā iepriekšējo tulkojumu, ja tāds bija. Ja iepriekšējam tulkojumam vajag veco rdr2-translator.asi, pirms tā atjaunošanas pārvieto UniversalRDR2StringTranslator.asi ārpus spēles mapes. Abi spraudņi nedrīkst darboties vienlaikus. Ja aizstāji vecāku Universal spraudņa versiju, atliec vietā tās saglabāto kopiju. Atstāj dinput8.dll, ja to izmanto citas modifikācijas. Ja pirms tulkojuma uzstādīšanas spēle bija bez modifikācijām, vari izņemt arī pievienoto spraudni un ielādētāju. Šī pakotne paredzēta stāsta režīmam.
+
+Ja vēlies mākslīgā intelekta palīdzību, pievieno šo instrukciju un raksti savam asistentam: “Palīdzi man uzstādīt REYRUN latviešu tulkojumu spēlei Red Dead Redemption 2 Windows datorā. Es izmantoju [Steam / citu palaidēju]. Palīdzi atrast RDR2.exe, lejupielādēt abus vajadzīgos failus no to autoriem, saglabāt vecos failus un pārbaudīt uzstādīto tulkojumu.”
+
+Ja vēlies pārbaudīt izpakoto XML, atver PowerShell tā mapē un izpildi komandu
+Get-FileHash -Algorithm SHA256 -LiteralPath '.\Latvian Translation.xml'
+Pareizā SHA-256 kontrolsumma
+c72337da664b3999ca4fc2de2600c1e79c551b29fa1e69d79d1330485aef5045
