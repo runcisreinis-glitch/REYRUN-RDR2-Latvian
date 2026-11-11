@@ -1,7 +1,8 @@
 ﻿REYRUN • Red Dead Redemption 2 in Latvian
 Windows PC · Story Mode
 
-The RDR2 profile has a ready-to-run Windows launcher. Choose the game folder containing RDR2.exe. If an ordinary web chat cannot access your PC, follow the manual steps.
+Download the Windows launcher https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd
+Open the downloaded .cmd file. It looks for your Steam, Rockstar or Epic installation and prepares a copy of the translation XML in the REYRUN workspace after verifying its SHA-256 checksum. If prompted, choose the folder containing RDR2.exe. Follow the guide to install the translator plug-in and ASI loader and copy the XML into the game folder.
 Open the RDR2 connection guide https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/#rdr2
 Bridge tools and source on GitHub https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge
 

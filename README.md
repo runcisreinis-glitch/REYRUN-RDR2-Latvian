@@ -6,7 +6,7 @@ English · [Latviski](README.lv.md)
 
 A free Latvian text translation for Red Dead Redemption 2 on Windows PC. Use it in Story Mode with the game language set to English. The characters keep their original voices.
 
-**[Download the translation ZIP](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip)** · [Open the bilingual project website](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
+**[Download the Windows launcher](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd)** · **[Download the translation ZIP](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip)** · [Open the bilingual project website](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
 
 [Support Reinis](#ways-to-support-me) · [Installation skill](skills/reyrun-rdr2-lv-install/SKILL.md) · [Translation skill](skills/reyrun-game-translation-lv/SKILL.md)
 
@@ -38,7 +38,7 @@ Paste this request into your AI chat.
 
 > I want to play Red Dead Redemption 2 in Latvian. Open https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/docs/INSTALL-AI-en.md and help me install the translation. If you can work on my PC, please do it for me. If you can only chat, tell me one click at a time.
 
-The RDR2 profile has a ready-to-run Windows launcher. Choose the game folder containing RDR2.exe. If an ordinary web chat cannot access your PC, follow the manual steps. [Open the RDR2 connection guide](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/#rdr2) · [Bridge tools and source on GitHub](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
+**[Download the Windows launcher](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd)** Open the downloaded .cmd file. It looks for your Steam, Rockstar or Epic installation and prepares a copy of the translation XML in the REYRUN workspace after verifying its SHA-256 checksum. If prompted, choose the folder containing RDR2.exe. Follow the guide to install the translator plug-in and ASI loader and copy the XML into the game folder. [Open the RDR2 connection guide](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/#rdr2) · [Bridge tools and source on GitHub](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
 
 [Full installation guide for AI](docs/INSTALL-AI-en.md) · [Download the installation skill](downloads/REYRUN-RDR2-Install-Skill.zip?raw=true)
 

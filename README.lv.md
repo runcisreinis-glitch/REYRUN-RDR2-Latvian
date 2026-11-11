@@ -6,7 +6,7 @@ Latviski · [English](README.md)
 
 Bezmaksas rakstītā teksta tulkojums spēles *Red Dead Redemption 2* stāsta režīmam Windows datorā. Izvēlnes un subtitri ir latviski. Varoņi runā oriģinālvalodā.
 
-**[Lejupielādēt tulkojumu](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip)** · [Apmeklēt projekta mājaslapu](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/)
+**[Lejupielādēt Windows palaidēju](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd)** · **[Lejupielādēt tulkojumu](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip)** · [Apmeklēt projekta mājaslapu](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/)
 
 [Atbalstīt Reini](#brīvprātīgs-atbalsts) · [Uzstādīšanas prasme](skills/reyrun-rdr2-lv-install/SKILL.md) · [Tulkošanas prasme](skills/reyrun-game-translation-lv/SKILL.md)
 
@@ -38,7 +38,7 @@ Iekopē šo lūgumu sarunā ar savu MI.
 
 > Gribu spēlēt Red Dead Redemption 2 latviski. Atver https://raw.githubusercontent.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/main/docs/INSTALL-AI-lv.md un palīdzi man uzstādīt tulkojumu. Ja vari strādāt manā datorā, izdari to. Ja vari tikai sarunāties, saki pa vienam solim, kur man jāspiež.
 
-RDR2 profilam jau ir sagatavots Windows palaišanas fails. Izvēlies spēles mapi, kurā atrodas RDR2.exe. Ja parasts tīmekļa čats nevar piekļūt datoram, seko manuālajiem soļiem. [Atvērt RDR2 savienojuma pamācību](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/#rdr2) · [Savienojuma rīki un pirmkods GitHub](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
+**[Lejupielādēt Windows palaidēju](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd)** Atver lejupielādēto .cmd failu. Tas meklē Steam, Rockstar vai Epic spēles mapi, pārbauda tulkojuma XML faila SHA-256 kontrolsummu un sagatavo faila kopiju REYRUN darba mapē. Ja parādās mapes izvēle, norādi mapi ar RDR2.exe. Pamācībā parādīts, kā uzstādīt tulkošanas spraudni un ASI ielādētāju un iekopēt XML spēles mapē. [Atvērt RDR2 savienojuma pamācību](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/#rdr2) · [Savienojuma rīki un pirmkods GitHub](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
 
 [Pilnā uzstādīšanas instrukcija MI](docs/INSTALL-AI-lv.md) · [Lejupielādēt uzstādīšanas prasmi](downloads/REYRUN-RDR2-Install-Skill.zip?raw=true)
 

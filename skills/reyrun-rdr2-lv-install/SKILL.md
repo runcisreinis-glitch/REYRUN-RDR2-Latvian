@@ -13,7 +13,7 @@ Open the [Latvian instructions](references/INSTALL-AI-lv.md) or [English instruc
 
 An ordinary free chat can guide the player. It needs the instructions and the player's answers. If the assistant accepts files, attach this skill and the matching guide. A local assistant that supports skills can load this entire folder with its references. The player needs no translation service or model API key to use the game files.
 
-For a scoped Windows installer connection, open the [RDR2 bridge in English](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/#rdr2) or [RDR2 savienojuma lapu latviski](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/#rdr2). The Windows launcher takes the folder containing `RDR2.exe`. A browser-only assistant can use the manual path. [Bridge tools and source](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
+Download the [RDR2 Windows launcher](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd) and run it. It discovers Steam, Rockstar and Epic installations and stages a SHA-256-verified XML copy in the REYRUN workspace. Complete the plug-in, ASI loader and game-folder steps in the installation guide. For connection details, open the [RDR2 bridge in English](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/#rdr2) or [RDR2 savienojuma lapu latviski](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/#rdr2). If discovery prompts for a game folder, choose the one containing `RDR2.exe`. A browser-only assistant can use the manual path. [Bridge tools and source](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
 
 ## Installation sequence
 
