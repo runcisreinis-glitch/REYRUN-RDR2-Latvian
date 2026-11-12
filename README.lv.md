@@ -4,13 +4,17 @@
 
 Latviski · [English](README.md) · [Русский](README.ru.md)
 
-Dačs runā angliski, un tu palaid garām pusi sarunas? Ar šo tulkojumu subtitrus, izvēlnes un uzdevumus vari lasīt latviski. Tulkojumu vari lejupielādēt, uzlikt un lietot pilnīgi bez maksas.
+Jūs spēlējat Red Dead Redemption 2. Dačs kaut ko stāsta, bet, kamēr mēģināt saprast vienu teikumu angliski, nākamo jau esat palaiduši garām. Tik labā vesternā gribas saprast katru vārdu.
 
-Iekopē šīs lapas adresi tur, kur parasti raksti jautājumus mākslīgajam intelektam. Tas pateiks, ko darīt tālāk.
+Oriģinālajā spēlē latviešu valodā nav ne balsu, ne subtitru. Ar mākslīgā intelekta palīdzību esmu iztulkojis subtitrus, izvēlnes un uzdevumus. Varoņi runā angliski, jūs lasāt latviski. Tulkojumu var lejupielādēt, uzstādīt un lietot pilnīgi bez maksas.
+
+Ja Windows datorā jau ir spēle angļu valodā, iekopējiet šīs lapas adresi savā sarunā ar mākslīgo intelektu. Tas palīdzēs uzstādīt tulkojumu.
 
 [https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/)
 
-Ja saraksties ar ChatGPT, tu jau lieto čatbotu. Čats netiek pie spēles? [Iedod tam tiltu.](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/)
+Ja lietojat ChatGPT, jūs jau sarakstāties ar čatbotu. Lai tas tiktu pie spēles failiem, [savienojiet čatu ar datoru](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/).
+
+Šis nav profesionāls tulkojums. Šķirstīju sinonīmu vārdnīcas un salīdzināju, kā tā pati doma izteikta citās valodās. Cik pats esmu spēlējis ar šo tulkojumu, visu varēju saprast. [Ja vēlaties mani atbalstīt, jau iepriekš paldies!](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/#support)
 
 <details>
 <summary>Pamācība čatbotam un lejupielādes</summary>

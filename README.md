@@ -4,13 +4,17 @@
 
 English · [Latviski](README.lv.md) · [Русский](README.ru.md)
 
-Dutch says something in English and you miss what he means. You can read the subtitles, menus and mission objectives in Latvian. The translation is completely free to download, install and use.
+You’re playing Red Dead Redemption 2. By the time you’ve worked out what Dutch said in English, you’ve missed his next line. In a Western this good, you want to hear the whole story.
 
-Paste this page’s address wherever you usually ask AI questions. Your assistant will tell you what to do next.
+The original game has no Latvian voices or subtitles. With help from AI, I’ve translated the subtitles, menus and mission objectives. You hear the original English and read along in Latvian. The translation is completely free to download, install and use.
+
+Have the English game on your Windows PC? Paste this page’s address into your usual AI chat for help installing the translation.
 
 [https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
 
-If you use ChatGPT, you already use a chatbot. Does your chat need access to the game? [Give it the bridge guide.](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/)
+If you use ChatGPT, you already use a chatbot. To give it access to the game files, [connect your chat to your computer](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/).
+
+This is an amateur translation. I looked words up in thesauruses and compared how the same lines read in other languages. I could follow everything in the parts I played myself. [If you’d like to support my work, thank you.](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/#support)
 
 <details>
 <summary>Instructions for your assistant and downloads</summary>
