@@ -2,9 +2,11 @@
 
 # REYRUN · Red Dead Redemption 2 latviski
 
-Latviski · [English](README.md)
+Latviski · [English](README.md) · [Русский](README.ru.md)
 
 Bezmaksas rakstītā teksta tulkojums spēles *Red Dead Redemption 2* stāsta režīmam Windows datorā. Izvēlnes un subtitri ir latviski. Varoņi runā oriģinālvalodā.
+
+**[Uzstādīt XML ar pārbaudītajiem spraudņiem](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Install-XML.cmd)**. Rīks pārbauda UniversalRDR2StringTranslator.asi un dinput8.dll kontrolsummas. Ja tās atbilst atbalstītajām versijām, tas uzstāda tulkojuma XML. Ja trūkst kāda faila vai versija atšķiras, rīks norāda vajadzīgo failu un pamācību. [Atjaunot palaidēja saglabāto iepriekšējo stāvokli](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Restore-XML.cmd).
 
 **[Lejupielādēt Windows palaidēju](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd)** · **[Lejupielādēt tulkojumu](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip)** · [Apmeklēt projekta mājaslapu](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/)
 

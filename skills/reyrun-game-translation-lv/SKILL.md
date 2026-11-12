@@ -5,6 +5,8 @@ description: Translate and edit game text into natural Latvian with speaker and 
 
 # REYRUN game translation into Latvian
 
+[Руководство на русском](references/GUIDE-ru.md) · [Проверки в игре](references/ADVANCED-ru.md) · [Опыт перевода RDR2](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/ru/method/retrospective/)
+
 <img src="assets/REYRUN.png" alt="REYRUN" width="56">
 
 Start with the [English guide](references/GUIDE-en.md) or [latviešu instrukcija](references/GUIDE-lv.md). For a first run, use the five original teaching examples supplied in this folder.

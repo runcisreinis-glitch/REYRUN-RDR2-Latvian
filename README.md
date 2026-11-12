@@ -2,11 +2,13 @@
 
 # REYRUN · Red Dead Redemption 2 in Latvian
 
-English · [Latviski](README.lv.md)
+English · [Latviski](README.lv.md) · [Русский](README.ru.md)
 
 A free Latvian text translation for Red Dead Redemption 2 on Windows PC. Use it in Story Mode with the game language set to English. The characters keep their original voices.
 
-**[Download the Windows launcher](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd)** · **[Download the translation ZIP](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip)** · [Open the bilingual project website](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
+**[Install the XML with the supported plug-ins](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Install-XML.cmd)**. The installer checks the hashes of UniversalRDR2StringTranslator.asi and dinput8.dll. If they match the supported versions, it installs the translation XML. If a file is missing or its version differs, it identifies that file and points you to the setup guide. [Restore the state saved by this installer](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Restore-XML.cmd).
+
+**[Download the Windows launcher](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd)** · **[Download the translation ZIP](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip)** · [Open the project website](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
 
 [Support Reinis](#ways-to-support-me) · [Installation skill](skills/reyrun-rdr2-lv-install/SKILL.md) · [Translation skill](skills/reyrun-game-translation-lv/SKILL.md)
 

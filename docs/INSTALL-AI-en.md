@@ -1,5 +1,9 @@
 # Install the REYRUN Latvian translation for Red Dead Redemption 2
 
+[Install the XML with the supported plug-ins](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Install-XML.cmd). The installer checks the hashes of UniversalRDR2StringTranslator.asi and dinput8.dll. If they match the supported versions, it installs the translation XML. If a file is missing or its version differs, it identifies that file and points you to the setup guide. [Restore the state saved by this installer.](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Restore-XML.cmd)
+
+[Download the Windows launcher](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd) Open the downloaded .cmd file. It looks for the game and verifies the translation checksum. If prompted, select the folder containing RDR2.exe. The guide below also covers manual installation and restoring the original files.
+
 For Windows PC and Story Mode. The player needs an installed copy of the game. Give this guide to an AI assistant with access to the player's files, or follow it in an ordinary chat that guides the player through each click. [Latviski](https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/INSTALL-AI-lv.md)
 
 > I want to play Red Dead Redemption 2 in Latvian. Find my game folder, download the REYRUN translation and install it using this guide. Keep a backup of my old files and show me how to check it in the game. If you can't access my computer, tell me what to do one step at a time.

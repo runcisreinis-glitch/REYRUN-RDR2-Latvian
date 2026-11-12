@@ -5,6 +5,8 @@ description: Install, verify, update or remove the free REYRUN Latvian text tran
 
 # REYRUN RDR2 Latvian installation assistant
 
+[Инструкция по установке на русском](references/INSTALL-AI-ru.md)
+
 Open the [Latvian instructions](references/INSTALL-AI-lv.md) or [English instructions](references/INSTALL-AI-en.md). They contain the released checksums, authors' download links, exact filenames, launcher choices, copy checks, rollback procedure and separate in-game tests.
 
 ## What a player can say

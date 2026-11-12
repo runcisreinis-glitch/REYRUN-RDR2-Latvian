@@ -1,5 +1,9 @@
 # Uzstādi REYRUN latviešu tulkojumu spēlei Red Dead Redemption 2
 
+[Uzstādīt XML ar pārbaudītajiem spraudņiem](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Install-XML.cmd). Rīks pārbauda UniversalRDR2StringTranslator.asi un dinput8.dll kontrolsummas. Ja tās atbilst atbalstītajām versijām, tas uzstāda tulkojuma XML. Ja trūkst kāda faila vai versija atšķiras, rīks norāda vajadzīgo failu un pamācību. [Atjaunot palaidēja saglabāto iepriekšējo stāvokli.](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Restore-XML.cmd)
+
+[Lejupielādēt Windows palaidēju](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd) Atver lejupielādēto .cmd failu. Tas meklē spēles instalāciju un pārbauda tulkojuma kontrolsummu. Ja palaidējs prasa norādīt mapi, izvēlies to, kurā atrodas RDR2.exe. Zemāk aprakstīta arī uzstādīšana ar roku un iepriekšējo failu atjaunošana.
+
 Windows datoram un stāsta režīmam. Spēle jau ir uzstādīta. Šo instrukciju vari iedot MI palīgam, kuram ir piekļuve tava datora failiem. Arī parasts čats var soli pa solim pateikt, kur noklikšķināt. [English](https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/INSTALL-AI-en.md)
 
 > Gribu spēlēt Red Dead Redemption 2 latviski. Atrodi manas spēles mapi, lejupielādē REYRUN tulkojumu un uzliec to pēc šīs instrukcijas. Saglabā manus vecos failus un parādi, kā spēlē pārbaudīt rezultātu. Ja tev nav piekļuves manam datoram, saki pa vienam solim, kas jādara man.
