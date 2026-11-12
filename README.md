@@ -4,13 +4,16 @@
 
 English · [Latviski](README.lv.md) · [Русский](README.ru.md)
 
-You’re playing Red Dead Redemption 2. Dutch says something in English, and the dialogue moves on before you catch it. This free translation lets you read the subtitles, menus and mission objectives in Latvian. The voices stay in English.
+Dutch says something in English and you miss what he means. This free translation lets you read the subtitles, menus and mission objectives in Latvian.
 
-Paste this page or its GitHub link into your AI chat and ask it to install the translation. You can copy a ready-to-send message here.
+Paste this page’s address wherever you usually ask AI questions. Your assistant will tell you what to do next.
 
-> I have the English version of Red Dead Redemption 2 on my Windows PC. I’d like Latvian subtitles in Story Mode. Please install the free REYRUN translation using this guide: https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/. If you need access to the game folder, follow this guide to connect to my PC: https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/. Back up my old files and tell me if there’s anything I need to open or approve. The same instructions on GitHub: https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/INSTALL-AI-en.md
+[https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
 
-The installation skill gives your assistant the instructions. You don’t need to install the skill yourself. If you use a browser chat that can’t reach your game files, also give it the [guide to connecting your chat to your PC](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/). Once connected, your assistant can handle the files for you.
+If you use ChatGPT, you already use a chatbot. Does your chat need access to the game? [Give it the bridge guide.](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/)
+
+<details>
+<summary>Instructions for your assistant and downloads</summary>
 
 If you have a fresh copy of the game in English, you’ll also need a translation plug-in and a loader from their authors. Your assistant can help you get them. On your first install you may need to sign in to Nexus Mods or approve a download.
 
@@ -19,6 +22,8 @@ If you have a fresh copy of the game in English, you’ll also need a translatio
 **[Download the Windows launcher](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd)** · **[Download the translation ZIP](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip)** · [Open the project website](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
 
 [Support Reinis](#ways-to-support-me) · [Installation skill](skills/reyrun-rdr2-lv-install/SKILL.md) · [Translation skill](skills/reyrun-game-translation-lv/SKILL.md)
+
+</details>
 
 ## Latvian in the game
 
@@ -46,7 +51,7 @@ One mission objective in the downloadable XML reads **“Seko Dačam”** (“Fo
 
 Paste this request into your AI chat.
 
-Paste the copied message into your chat. [Copy message for my chat](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
+Paste the copied message into your chat. [Copy the page address](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
 
 **[Download the Windows launcher](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd)** Open the downloaded .cmd file. It looks for your Steam, Rockstar or Epic installation and prepares a copy of the translation XML in the REYRUN workspace after verifying its SHA-256 checksum. If prompted, choose the folder containing RDR2.exe. Follow the guide to install the translator plug-in and ASI loader and copy the XML into the game folder. [Open the RDR2 connection guide](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/#rdr2) · [Bridge tools and source on GitHub](https://github.com/runcisreinis-glitch/REYRUN-Chatbot-Bridge)
 

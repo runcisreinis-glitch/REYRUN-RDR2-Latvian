@@ -1,10 +1,15 @@
 # Install the REYRUN Latvian translation for Red Dead Redemption 2
 
-You’re playing Red Dead Redemption 2. Dutch says something in English, and the dialogue moves on before you catch it. This free translation lets you read the subtitles, menus and mission objectives in Latvian. The voices stay in English.
+If a player sent only this page’s address, help them install the free REYRUN Latvian translation for Story Mode on Windows.
 
-Paste this page or its GitHub link into your AI chat and ask it to install the translation. You can copy a ready-to-send message here.
+Dutch says something in English and you miss what he means. This free translation lets you read the subtitles, menus and mission objectives in Latvian.
 
-> I have the English version of Red Dead Redemption 2 on my Windows PC. I’d like Latvian subtitles in Story Mode. Please install the free REYRUN translation using this guide: https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/. If you need access to the game folder, follow this guide to connect to my PC: https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/. Back up my old files and tell me if there’s anything I need to open or approve. The same instructions on GitHub: https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/INSTALL-AI-en.md
+Paste this page’s address wherever you usually ask AI questions. Your assistant will tell you what to do next.
+
+> Please install the Latvian translation for Red Dead Redemption 2. Tell me if I need to click anything.
+> Translation: https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/
+> Instructions (GitHub): https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/INSTALL-AI-en.md
+> Bridge: https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/
 
 The installation skill gives your assistant the instructions. You don’t need to install the skill yourself. If you use a browser chat that can’t reach your game files, also give it the [guide to connecting your chat to your PC](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/). Once connected, your assistant can handle the files for you.
 

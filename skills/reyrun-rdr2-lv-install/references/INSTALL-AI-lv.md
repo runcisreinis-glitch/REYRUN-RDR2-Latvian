@@ -1,10 +1,15 @@
 # Uzstādi REYRUN latviešu tulkojumu spēlei Red Dead Redemption 2
 
-Tu spēlē Red Dead Redemption 2. Saruna ir angliski, un nepaspēj saprast, ko Dačs tikko pateica. Ar šo bezmaksas tulkojumu vari lasīt subtitrus, izvēlnes un uzdevumus latviski. Varoņi turpina runāt angliski.
+Ja spēlētājs ir atsūtījis tikai šīs lapas adresi, palīdzi viņam uzlikt bezmaksas REYRUN latviešu tulkojumu Windows spēles stāsta režīmam.
 
-Iekopē šīs lapas vai GitHub adresi čatā un palūdz uzstādīt tulkojumu. Vari arī nokopēt jau gatavu ziņu.
+Dačs runā angliski, un tu palaid garām pusi sarunas? Ar šo bezmaksas tulkojumu vari lasīt subtitrus, izvēlnes un uzdevumus latviski.
 
-> Manā Windows datorā ir Red Dead Redemption 2 angļu valodā. Gribu spēlēt stāsta režīmu ar latviskiem subtitriem. Palīdzi man uzstādīt bezmaksas REYRUN tulkojumu pēc šīs pamācības: https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/. Ja tev vajag piekļuvi spēles mapei, izmanto šo pamācību par tiltu: https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/. Saglabā manus vecos failus. Kad man pašam kaut kas jāatver vai jāapstiprina, pasaki, kas tieši jānospiež. Tā pati instrukcija GitHub: https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/INSTALL-AI-lv.md
+Iekopē šīs lapas adresi tur, kur parasti raksti jautājumus mākslīgajam intelektam. Tas pateiks, ko darīt tālāk.
+
+> Lūdzu, uzliec man Red Dead Redemption 2 latviešu tulkojumu. Pasaki, ja man kaut kas jānospiež.
+> Tulkojums: https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/
+> Pamācība (GitHub): https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/INSTALL-AI-lv.md
+> Tilts: https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/
 
 Uzstādīšanas prasme (skill) ir pamācība tavam čatbotam. Tev tā nav atsevišķi jāinstalē. Ja sarunājies pārlūkā un čats netiek pie spēles failiem, iedod tam arī [pamācību par tiltu uz datoru](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/). Kad piešķirsi piekļuvi spēles mapei, čatbots varēs failus salikt tavā vietā.
 
