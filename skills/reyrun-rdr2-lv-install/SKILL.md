@@ -9,6 +9,10 @@ description: Install, verify, update or remove the free REYRUN Latvian text tran
 
 Open the [Latvian instructions](references/INSTALL-AI-lv.md) or [English instructions](references/INSTALL-AI-en.md). They contain the released checksums, authors' download links, exact filenames, launcher choices, copy checks, rollback procedure and separate in-game tests.
 
+## One runnable installer
+
+Use the published [Windows installer](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-Setup.cmd) as the single player-facing file. It reuses verified downloads, checks the author’s pinned x64 loader, and resumes after a legitimate plug-in download or Windows approval. Run it yourself when the player has granted execution access. The three language references describe pending consent, safe alternatives, verification and rollback.
+
 ## What a player can say
 
 > Gribu spēlēt Red Dead Redemption 2 latviski. Atrodi manas spēles mapi un uzliec REYRUN tulkojumu pēc šīs instrukcijas. Ja man kaut kas jānospiež pašam, parādi pa vienam solim.
