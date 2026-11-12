@@ -4,21 +4,29 @@
 
 [Latviski](README.lv.md) · [English](README.md) · Русский
 
-Бесплатный перевод меню, субтитров и других текстов Red Dead Redemption 2 для сюжетного режима на Windows. Озвучка остаётся оригинальной.
+Вы играете в Red Dead Redemption 2. Датч что-то сказал по-английски, а вы не успели понять, что именно. С этим бесплатным переводом можно читать субтитры, меню и задания на латышском. Озвучка остаётся английской.
+
+Вставьте адрес этой страницы или ссылку на GitHub в чат с ИИ и попросите установить перевод. Можно сразу скопировать готовую просьбу.
+
+> У меня на компьютере с Windows установлена английская версия Red Dead Redemption 2. Хочу играть в сюжетном режиме с латышскими субтитрами. Установи, пожалуйста, бесплатный перевод REYRUN по этой инструкции: https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/ru/. Если тебе нужен доступ к папке игры, вот как подключиться к моему компьютеру: https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/ru/. Сохрани копии старых файлов и скажи, если мне нужно что-то открыть или подтвердить. Та же инструкция на GitHub: https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/INSTALL-AI-ru.md
+
+Умение (skill) для установки перевода — это инструкция для вашего ИИ-помощника. Отдельно устанавливать её не нужно. Если вы общаетесь в браузере и у помощника нет доступа к папке игры, дайте ему ещё и [инструкцию по подключению чата к компьютеру](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/ru/). После подключения помощник сможет сам скопировать файлы.
+
+Если у вас установлена только английская версия игры, понадобятся ещё плагин перевода и его загрузчик. Их можно скачать у авторов. Помощник подскажет, где их взять. При первой установке может потребоваться вход на Nexus Mods или подтверждение загрузки.
 
 **[Скачать программу для Windows](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd)** · [Скачать ZIP с переводом](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip) · [Сайт проекта на русском](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/ru/)
 
 ## Как установить
 
-**[Установить XML с проверенными плагинами](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Install-XML.cmd)**. Программа сверяет версии UniversalRDR2StringTranslator.asi и dinput8.dll по их контрольным суммам. Если они подходят, она устанавливает XML с переводом. Если нет, сообщает, какой файл нужен. [Восстановить состояние, сохранённое этой программой](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Restore-XML.cmd).
+**[Скачать программу установки перевода](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Install-XML.cmd)**. Закройте игру, скачайте и откройте программу установки для Windows. Она найдёт папку игры и установит перевод, если распознает оба нужных файла. Если копий игры несколько или программа не найдёт ни одной, укажите папку с RDR2.exe. Автоматическая установка рассчитана на конкретную версию загрузчика [ThirteenAG](https://github.com/ThirteenAG/Ultimate-ASI-Loader). В инструкции по ручной установке ниже описан также загрузчик из архива Script Hook RDR2. [Вернуть предыдущий перевод](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Restore-XML.cmd).
 
 Для первой установки откройте скачанный файл .cmd. Он ищет установку Steam, Rockstar или Epic и готовит проверенную по SHA-256 копию перевода в рабочей папке REYRUN. По запросу выберите папку, где лежит RDR2.exe. Для самой игры нужны плагин Universal RDR2 String Translator и загрузчик ASI. В инструкции указаны ссылки авторов, порядок резервного копирования и необходимые файлы.
 
-[Инструкция по установке и восстановлению](docs/INSTALL-AI-ru.md) · [Скачать навык установки](downloads/REYRUN-RDR2-Install-Skill.zip?raw=true)
+[Инструкция по установке и восстановлению](docs/INSTALL-AI-ru.md) · [Скачать умение (skill) для установки](downloads/REYRUN-RDR2-Install-Skill.zip?raw=true)
 
 Если вам помогает ИИ, отправьте ему эту просьбу:
 
-> Хочу пройти Red Dead Redemption 2 на латышском. Открой https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/INSTALL-AI-ru.txt и помоги установить перевод. Если у тебя есть доступ к моему компьютеру, сделай это за меня. Если мы можем только переписываться, подсказывай по одному действию.
+Вставьте скопированную просьбу в свой чат. [Скопировать просьбу для чата](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/ru/)
 
 ## Кадры из сюжетного режима
 
@@ -40,7 +48,7 @@
 
 Начните с [практического руководства](skills/reyrun-game-translation-lv/references/GUIDE-ru.md). На пяти строках можно попробовать вычитку, проверить служебные вставки и сравнить переведённый текст с исходником. Инструкции подходят и человеку, и ИИ-помощнику. Примеры и инструменты Python запускаются локально.
 
-[Навык перевода](skills/reyrun-game-translation-lv/SKILL.md) · [Проверки в игре](skills/reyrun-game-translation-lv/references/ADVANCED-ru.md) · [Опыт проекта RDR2](docs/RETROSPECTIVE-ru.md) · [Скачать навык перевода](downloads/REYRUN-Latvian-Game-Translation-Skill.zip?raw=true)
+[Умение (skill) для перевода](skills/reyrun-game-translation-lv/SKILL.md) · [Проверки в игре](skills/reyrun-game-translation-lv/references/ADVANCED-ru.md) · [Опыт проекта RDR2](docs/RETROSPECTIVE-ru.md) · [Скачать умение (skill) для перевода](downloads/REYRUN-Latvian-Game-Translation-Skill.zip?raw=true)
 
 ## От Рейниса
 

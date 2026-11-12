@@ -1,12 +1,16 @@
 # Install the REYRUN Latvian translation for Red Dead Redemption 2
 
-[Install the XML with the supported plug-ins](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Install-XML.cmd). The installer checks the hashes of UniversalRDR2StringTranslator.asi and dinput8.dll. If they match the supported versions, it installs the translation XML. If a file is missing or its version differs, it identifies that file and points you to the setup guide. [Restore the state saved by this installer.](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Restore-XML.cmd)
+You’re playing Red Dead Redemption 2. Dutch says something in English, and the dialogue moves on before you catch it. This free translation lets you read the subtitles, menus and mission objectives in Latvian. The voices stay in English.
 
-[Download the Windows launcher](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-rdr2-Windows.cmd) Open the downloaded .cmd file. It looks for the game and verifies the translation checksum. If prompted, select the folder containing RDR2.exe. The guide below also covers manual installation and restoring the original files.
+Paste this page or its GitHub link into your AI chat and ask it to install the translation. You can copy a ready-to-send message here.
 
-For Windows PC and Story Mode. The player needs an installed copy of the game. Give this guide to an AI assistant with access to the player's files, or follow it in an ordinary chat that guides the player through each click. [Latviski](https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/INSTALL-AI-lv.md)
+> I have the English version of Red Dead Redemption 2 on my Windows PC. I’d like Latvian subtitles in Story Mode. Please install the free REYRUN translation using this guide: https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/. If you need access to the game folder, follow this guide to connect to my PC: https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/. Back up my old files and tell me if there’s anything I need to open or approve. The same instructions on GitHub: https://github.com/runcisreinis-glitch/REYRUN-RDR2-Latvian/blob/main/docs/INSTALL-AI-en.md
 
-> I want to play Red Dead Redemption 2 in Latvian. Find my game folder, download the REYRUN translation and install it using this guide. Keep a backup of my old files and show me how to check it in the game. If you can't access my computer, tell me what to do one step at a time.
+The installation skill gives your assistant the instructions. You don’t need to install the skill yourself. If you use a browser chat that can’t reach your game files, also give it the [guide to connecting your chat to your PC](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/en/). Once connected, your assistant can handle the files for you.
+
+If you have a fresh copy of the game in English, you’ll also need a translation plug-in and a loader from their authors. Your assistant can help you get them. On your first install you may need to sign in to Nexus Mods or approve a download.
+
+[Download the translation installer](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Install-XML.cmd). Close the game, then download and open the Windows installer. It finds the game folder and installs the translation if it recognizes both required files. If it finds several copies of the game or none at all, choose the folder containing RDR2.exe. The automatic installer checks for a specific version of the [ThirteenAG](https://github.com/ThirteenAG/Ultimate-ASI-Loader) loader. The manual instructions below also cover the loader supplied with Script Hook RDR2. [Restore the previous translation](https://reyrun-chatbot-bridge.runcisreinis.chatgpt.site/launchers/REYRUN-RDR2-Restore-XML.cmd).
 
 ## How your assistant can help with local files
 
