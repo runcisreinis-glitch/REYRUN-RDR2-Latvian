@@ -2,7 +2,7 @@
 
 Ja spēlētājs ir atsūtījis tikai šīs lapas adresi, palīdzi viņam uzlikt bezmaksas REYRUN latviešu tulkojumu Windows spēles stāsta režīmam.
 
-Dačs runā angliski, un tu palaid garām pusi sarunas? Ar šo bezmaksas tulkojumu vari lasīt subtitrus, izvēlnes un uzdevumus latviski.
+Dačs runā angliski, un tu palaid garām pusi sarunas? Ar šo tulkojumu subtitrus, izvēlnes un uzdevumus vari lasīt latviski. Tulkojumu vari lejupielādēt, uzlikt un lietot pilnīgi bez maksas.
 
 Iekopē šīs lapas adresi tur, kur parasti raksti jautājumus mākslīgajam intelektam. Tas pateiks, ko darīt tālāk.
 

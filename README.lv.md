@@ -4,7 +4,7 @@
 
 Latviski · [English](README.md) · [Русский](README.ru.md)
 
-Dačs runā angliski, un tu palaid garām pusi sarunas? Ar šo bezmaksas tulkojumu vari lasīt subtitrus, izvēlnes un uzdevumus latviski.
+Dačs runā angliski, un tu palaid garām pusi sarunas? Ar šo tulkojumu subtitrus, izvēlnes un uzdevumus vari lasīt latviski. Tulkojumu vari lejupielādēt, uzlikt un lietot pilnīgi bez maksas.
 
 Iekopē šīs lapas adresi tur, kur parasti raksti jautājumus mākslīgajam intelektam. Tas pateiks, ko darīt tālāk.
 

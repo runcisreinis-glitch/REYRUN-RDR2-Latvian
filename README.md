@@ -4,7 +4,7 @@
 
 English · [Latviski](README.lv.md) · [Русский](README.ru.md)
 
-Dutch says something in English and you miss what he means. This free translation lets you read the subtitles, menus and mission objectives in Latvian.
+Dutch says something in English and you miss what he means. You can read the subtitles, menus and mission objectives in Latvian. The translation is completely free to download, install and use.
 
 Paste this page’s address wherever you usually ask AI questions. Your assistant will tell you what to do next.
 
