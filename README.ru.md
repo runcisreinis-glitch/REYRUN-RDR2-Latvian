@@ -1,6 +1,6 @@
 <img src="assets/REYRUN.png" alt="REYRUN" width="100">
 
-# Red Dead Redemption 2 на латышском
+# REYRUN · Red Dead Redemption 2 на латышском
 
 [Latviski](README.lv.md) · [English](README.md) · Русский
 
