@@ -1,24 +1,24 @@
 # How REYRUN translated Red Dead Redemption 2 into Latvian
 
-[Latviski](RETROSPECTIVE-lv.md) · [Project website](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
+[Latviski](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/metode/pieredze/) · [Project website](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/)
 
 On 2 November 2026, the team could show 32,666 source IDs with completed drafts in the preceding 24 hours. In that same window, the team's game installation gained 8,602 entries. The gap accumulated after drafting. We learned to inspect the queues for review and installation before asking another translator to produce more text.
 
-[Use the translation method on another game](../skills/reyrun-game-translation-lv/references/GUIDE-en.md)
+[Use the translation method on another game](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/method/)
 
 ## What the project measured
 
 All dates below use Riga time. One entry means one game string ID. A button label counts as one entry, just as a long subtitle does. Of the 256,890 IDs in the project inventory, 253,073 required an editorial decision. The other 3,817 were classified separately as exceptions, including control strings, numbers, symbols and empty values.
 
-| Observation window in 2026 | What the records showed | What the count covers |
-|---|---|---|
-| 28 October, status check | 119,387 entries in the installed XML. An older progress file still reported 118,002. | Snapshot of the 253,073 in scope. Reopening the older checkpoint would have repeated completed work. |
-| 31 October, first eight parallel batches | 128 short drafts in about 59 seconds. The final editor kept 45 wordings, changed 72 and held 11 for clarification. | One selected sample. The 117 approved texts were still awaiting installation at this checkpoint. |
-| 1 November, 22:00 to 2 November, 22:00 | 32,666 unique IDs completed drafting and 32,620 completed editing. Ten verified releases added 8,602 IDs to the game, from 131,617 to 140,219. | A full 24-hour window. Stage counts overlap. The installed additions covered 341,985 visible English source characters, excluding game control tags. |
-| 6 November, 22:29 to 22:34 | The database held 198,995 approvals. The actual game file held 198,238. All 198,238 shared texts matched exactly. | 757 approved entries were awaiting deployment. A separate overnight review had produced 1,411 ready and 133 held candidates from 1,544 IDs, with zero installations from that review. |
-| 8 November, 23:23 audit | 222,065 installed. Of the outstanding 31,008, the audit found saved text for 30,960, including 2,093 recovered only from raw responses. It could not establish a saved text for the remaining 48 at that time. | Evidence of a draft did not establish its editorial status. After work resumed, a separate release report at 00:28 on 9 November recorded 1,415 additions with zero new translation API requests. |
-| 9 November, 22:47 and 10 November, 00:21 | Both checks found 246,024 installed with 7,049 outstanding. | Checking twice established the state. Neither check added a release. |
-| 10 November, 23:28 final check | 253,073 approved IDs and texts matched the installed XML. Zero pending, zero held. A final correction changed 29 existing texts. | Full comparison against the approved database. In-game typography, subtitle timing and appearance still needed playtesting. |
+| Observation window in 2026               | What the records showed                                                                                                                                                                                        | What the count covers                                                                                                                                                                             |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 28 October, status check                 | 119,387 entries in the installed XML. An older progress file still reported 118,002.                                                                                                                           | Snapshot of the 253,073 in scope. Reopening the older checkpoint would have repeated completed work.                                                                                              |
+| 31 October, first eight parallel batches | 128 short drafts in about 59 seconds. The final editor kept 45 wordings, changed 72 and held 11 for clarification.                                                                                             | One selected sample. The 117 approved texts were still awaiting installation at this checkpoint.                                                                                                  |
+| 1 November, 22:00 to 2 November, 22:00   | 32,666 unique IDs completed drafting and 32,620 completed editing. Ten verified releases added 8,602 IDs to the game, from 131,617 to 140,219.                                                                 | A full 24-hour window. Stage counts overlap. The installed additions covered 341,985 visible English source characters, excluding game control tags.                                              |
+| 6 November, 22:29 to 22:34               | The database held 198,995 approvals. The actual game file held 198,238. All 198,238 shared texts matched exactly.                                                                                              | 757 approved entries were awaiting deployment. A separate overnight review had produced 1,411 ready and 133 held candidates from 1,544 IDs, with zero installations from that review.             |
+| 8 November, 23:23 audit                  | 222,065 installed. Of the outstanding 31,008, the audit found saved text for 30,960, including 2,093 recovered only from raw responses. It could not establish a saved text for the remaining 48 at that time. | Evidence of a draft did not establish its editorial status. After work resumed, a separate release report at 00:28 on 9 November recorded 1,415 additions with zero new translation API requests. |
+| 9 November, 22:47 and 10 November, 00:21 | Both checks found 246,024 installed with 7,049 outstanding.                                                                                                                                                    | Checking twice established the state. Neither check added a release.                                                                                                                              |
+| 10 November, 23:28 final check           | 253,073 approved IDs and texts matched the installed XML. Zero pending, zero held. A final correction changed 29 existing texts.                                                                               | Full comparison against the approved database. In-game typography, subtitle timing and appearance still needed playtesting.                                                                       |
 
 ## Where time went
 
@@ -46,7 +46,7 @@ For another game, report drafting, final approvals and new IDs verified in the i
 
 On 11 November Reinis captured seven screenshots from game version 1491.50. The pause menu shows “Karte” and “Iestatījumi”, and the Controls screen shows “Taustiņu piesaiste”. The riding tutorial displays its key symbol alongside the Latvian text. The opening scenes show Latvian dialogue subtitles and translated job titles in the credits. A Latvian caption appears beneath the original chapter-title artwork.
 
-Three examples can be traced to exact entries in the published XML. “Bet mēs zaudējām dažus cilvēkus.” is `0xFCD0E439`. The prompt to tap a key to ride faster is `0x9D9BAF33`. The Controls description “Pielāgo tastatūras un peles taustiņu piesaistes.” is `0x94B26056`. An editor can use those IDs to locate a line for correction. A mission objective, live dialogue during player control and the action/key list inside the key-mapping submenu have separate checks. [In-game checks](INSTALL-AI-en.md)
+Three examples can be traced to exact entries in the published XML. “Bet mēs zaudējām dažus cilvēkus.” is `0xFCD0E439`. The prompt to tap a key to ride faster is `0x9D9BAF33`. The Controls description “Pielāgo tastatūras un peles taustiņu piesaistes.” is `0x94B26056`. An editor can use those IDs to locate a line for correction. A mission objective, live dialogue during player control and the action/key list inside the key-mapping submenu have separate checks. [In-game checks](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/install/)
 
 ### Evidence
 
@@ -56,4 +56,4 @@ The dated observations come from the project's 28 October installation status, 3
 
 [Download the release](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/download/REYRUN-RDR2-LV.zip) · [Support Reinis](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/en/#ways) · [Get to know Reinis on Facebook](https://www.facebook.com/reinis.runcis)
 
-<p align="right"><img src="../assets/REYRUN.png" alt="REYRUN" width="64"></p>
+![REYRUN](https://reyrun-rdr2-latviski.runcisreinis.chatgpt.site/assets/reyrun.png)
